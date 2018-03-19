@@ -30,7 +30,7 @@
 .caption-3::before {
 	position: absolute;
 	width: 100%;
-	height: 50%;
+	height:60%;
 	color: #fff;
 	z-index: 1;
 	-webkit-transition: -webkit-transform 0.3s ease-in-out; 
