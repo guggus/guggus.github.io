@@ -76,6 +76,11 @@ body {
   color: white;
 }
 
+setion {
+  text-align: left;
+}
+
+
 /* line 13, /app/views/application.sass */
 a {
   color: black;
@@ -213,10 +218,11 @@ nav ul a:hover {
 
 /* line 100, /app/views/application.sass */
 section {
-  position: relative;
-  margin: 0 0 50px 280px;
+  margin: 20px 0 50px 20px;
   width: 550px;
+  text-align:left;
 }
+
 /* line 106, /app/views/application.sass */
 section dl dt {
   clear: left;
