@@ -51,7 +51,7 @@
 
 .caption-3::before {
 	content: attr(data-description) ;
-	top: 83%;
+	top: 78%;
 	background: #000011;
 	font-size: 14px;
 	padding: 20px;
